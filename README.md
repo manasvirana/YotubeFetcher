@@ -72,7 +72,8 @@ This project consists of two parts:
 
 ### Database 
 
-![Database](https://github.com/user-attachments/assets/386db689-379a-4d3d-bb2d-52bd0952b4bd)
+![Database](https://github.com/user-attachments/assets/f0973f91-b332-42c1-b20a-13cdc76ddc2d)
+
 
 
 ---
@@ -141,12 +142,12 @@ pip install -r requirements.txt
 4. Create a `.env` file in the backend directory with the following content:
 
 ```
-POSTGRES_USER=fampay_user
-POSTGRES_PASSWORD=manasvi1_
-POSTGRES_DB=fampay
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
 POSTGRES_HOST=localhost
 POSTGRES_PORT=5432
-YOUTUBE_API_KEY=AIzaSyDxWAbDw2cQfABit2yr2DK_5Zr53DP_0-k,AIzaSyAKrIHLnKLUCCm7KLnQYNt-7GS8Aga5mYw,AIzaSyAEJd0LsryS3uflsxcn2DzFDUiq-jaNEXg,AIzaSyDk8G4L0xkqORYDF6JgLLlfArp9heIXRVE
+YOUTUBE_API_KEY=
 FETCH_INTERVAL=10
 ```
 
